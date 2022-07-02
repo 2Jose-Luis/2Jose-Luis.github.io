@@ -1,0 +1,33 @@
+h1{
+    color:rgb(255, 179, 0) ;
+}
+ul{
+    list-style-type: none;
+    background-color: rgba(125, 138, 143, 0.7);
+    overflow: hidden;
+    margin: 0px;
+    padding: 20px 0px;
+    border: 0px;
+}
+li{
+    float:right;
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(48, 48, 48);
+    border-radius: 10px;
+   
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/c3/03/2a/c3032af0832491bb3145a5a288eb05a0.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    padding: 0px;
+    margin: 0px;
+}
